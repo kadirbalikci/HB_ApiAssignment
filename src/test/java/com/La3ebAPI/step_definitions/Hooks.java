@@ -15,7 +15,7 @@ import com.La3ebAPI.utilities.Driver;
 import cucumber.api.Scenario;
 
 
-public class Hooks {
+public class  Hooks {
 
 
 	@Before
